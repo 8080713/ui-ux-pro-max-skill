@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+  <i>UI UX Pro Max 为你的项目提供智能设计系统生成</i>
+</p>
+
+<p align="center">
   <b>如果你觉得这个项目有用，请考虑支持我们：</b><br><br>
   <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate"></a>
 </p>
